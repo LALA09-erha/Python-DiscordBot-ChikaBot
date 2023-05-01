@@ -5,7 +5,7 @@ def connect():
         mydb = mysql.connector.connect(
             host="sql12.freemysqlhosting.net",
             user="sql12614791",
-            password="tZYJXUm7WH",
+            password="",
             database = "sql12614791"
             )
         print(mydb)

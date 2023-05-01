@@ -201,4 +201,4 @@ async def check_last():
             pass           
 # GET TOKEN
 # get token from .env file in same directory
-m.client.run("MTEwMTM1NzMxMDgxNjgyOTUxMA.GEism9.IwBxwZrxGUg2Yqo18cK8wQTGWxnC-Bybxg-o44")
+m.client.run("")
